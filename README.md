@@ -88,11 +88,7 @@ Coming soon
 
 ## 🙏 Acknowledgements
 
-We build upon and reuse components from the ATISS project. We thank the ATISS authors for making their implementation available.
-
-```
 We use code from ATISS in our implementation and would like to thank the authors for their excellent work and for making their code publicly available.
-```
 
 ------
 
@@ -117,7 +113,7 @@ SAIFRaP/
 
 ## 📬 Contact
 
-For questions, issues, or contributions, open an issue or pull request on the repository, or contact gauravr@iiitd.ac.in .
+For questions, issues, or contributions, open an issue or pull request on the repository, or contact gauravr@iiitd.ac.in 
 
 ------
 
